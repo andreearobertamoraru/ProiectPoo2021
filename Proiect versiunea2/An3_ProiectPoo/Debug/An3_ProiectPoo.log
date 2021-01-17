@@ -1,0 +1,7 @@
+﻿  MainProiect.cpp
+C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\An3_ProiectPoo\Utils.h(92,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\An3_ProiectPoo\Utils.h(101,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\An3_ProiectPoo\CreateTable.h(143,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\An3_ProiectPoo\CreateTable.h(151,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\An3_ProiectPoo\CreateTable.h(160,21): warning C4018: '<': signed/unsigned mismatch
+  An3_ProiectPoo.vcxproj -> C:\Users\a-armora\Desktop\csie\An 3 sem 1\poo recuperare\Proiect\An3_ProiectPoo\Debug\An3_ProiectPoo.exe
